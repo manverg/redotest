@@ -1,14 +1,14 @@
 # Site settings
 title: A Site
 description: "Site template built with Jekyll."
-url: "https://USERNAME.github.io/PROJECT"
+url: "https://manverg.github.io/redotest"
 author:
   name: ""
   email: ""
   url: ""
 
 # Build settings
-baseurl: /PROJECT # Change this to your relative path (ex: /blog)
+baseurl: /redotest
 # markdown: kramdown
 markdown: CommonMarkGhPages
 commonmark:
